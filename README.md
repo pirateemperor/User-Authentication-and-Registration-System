@@ -39,8 +39,3 @@ After launching the application, you will be greeted with a login window. If you
 
 
 Thank you for checking out the User Authentication and Registration System!
-```
-
-Make sure to replace `[Your Email]` with your actual email address and include any additional files like the SQL schema if you have them. If you have a license file, replace `[LICENSE.md](LICENSE)` with the actual path to your LICENSE file in the repository.
-
-This README provides a basic structure that includes an overview of the project, installation instructions, usage guidelines, contribution guidelines, licensing information, acknowledgments, and contact information. You can customize each section further based on the specifics of your project and personal preferences.
